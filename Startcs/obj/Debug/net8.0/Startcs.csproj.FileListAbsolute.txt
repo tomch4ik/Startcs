@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\Startcs\Startcs\bin\Debug\net8.0\Startcs.exe
+C:\Users\lenovo\source\repos\Startcs\Startcs\bin\Debug\net8.0\Startcs.deps.json
+C:\Users\lenovo\source\repos\Startcs\Startcs\bin\Debug\net8.0\Startcs.runtimeconfig.json
+C:\Users\lenovo\source\repos\Startcs\Startcs\bin\Debug\net8.0\Startcs.dll
+C:\Users\lenovo\source\repos\Startcs\Startcs\bin\Debug\net8.0\Startcs.pdb
+C:\Users\lenovo\source\repos\Startcs\Startcs\obj\Debug\net8.0\Startcs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Startcs\Startcs\obj\Debug\net8.0\Startcs.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Startcs\Startcs\obj\Debug\net8.0\Startcs.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Startcs\Startcs\obj\Debug\net8.0\Startcs.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Startcs\Startcs\obj\Debug\net8.0\Startcs.dll
+C:\Users\lenovo\source\repos\Startcs\Startcs\obj\Debug\net8.0\refint\Startcs.dll
+C:\Users\lenovo\source\repos\Startcs\Startcs\obj\Debug\net8.0\Startcs.pdb
+C:\Users\lenovo\source\repos\Startcs\Startcs\obj\Debug\net8.0\Startcs.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Startcs\Startcs\obj\Debug\net8.0\ref\Startcs.dll
